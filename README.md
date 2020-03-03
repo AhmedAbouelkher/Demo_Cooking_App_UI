@@ -1,4 +1,4 @@
-# cookingapp
+# Cooking App UI
 
 A new Flutter application.
 
